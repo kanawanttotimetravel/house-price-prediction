@@ -5,3 +5,4 @@ scikit-learn
 matplotlib
 seaborn
 optuna
+optuna-integration
